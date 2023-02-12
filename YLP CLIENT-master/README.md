@@ -1,6 +1,7 @@
 # crankshaft
 
-> a sensible krunker client built on the ashes of [Gatoclient](https://github.com/Gatohost/gatoclient) and [Gatoclient lite](https://github.com/LukeTheDuke240/gatoclient-lite)
+> a krunker client that i plan to modify this is a modified version of crankshaft
+>
 
 ![splash](assets/blank_splash.png)
 
